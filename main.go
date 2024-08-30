@@ -7,5 +7,5 @@ import (
 )
 func main() {
 	sum := calculator.Add(1, 2)
-	fmt.Println("Hello world!!!", sum)
+	fmt.Println("Hello world !!!", sum)
 }
